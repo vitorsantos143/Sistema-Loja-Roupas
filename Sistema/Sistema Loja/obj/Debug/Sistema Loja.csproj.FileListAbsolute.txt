@@ -1,0 +1,8 @@
+C:\Users\pc\source\repos\Sistema\Sistema Loja\obj\Debug\Sistema Loja.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Sistema\Sistema Loja\obj\Debug\Sistema Loja.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Sistema\Sistema Loja\bin\Debug\Sistema Loja.exe.config
+C:\Users\pc\source\repos\Sistema\Sistema Loja\bin\Debug\Sistema Loja.exe
+C:\Users\pc\source\repos\Sistema\Sistema Loja\bin\Debug\Sistema Loja.pdb
+C:\Users\pc\source\repos\Sistema\Sistema Loja\obj\Debug\Sistema Loja.exe
+C:\Users\pc\source\repos\Sistema\Sistema Loja\obj\Debug\Sistema Loja.pdb
+C:\Users\pc\source\repos\Sistema\Sistema Loja\obj\Debug\Sistema Loja.exe.config
