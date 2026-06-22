@@ -1,0 +1,15 @@
+C:\Users\joao_\source\repos\Teste_certo\Teste_certo\obj\Debug\Teste_certo.csproj.AssemblyReference.cache
+C:\Users\joao_\source\repos\Teste_certo\Teste_certo\obj\Debug\Teste_certo.csproj.CoreCompileInputs.cache
+C:\Users\joao_\source\repos\Teste_certo\Teste_certo\bin\Debug\Teste_certo.exe.config
+C:\Users\joao_\source\repos\Teste_certo\Teste_certo\bin\Debug\Teste_certo.exe
+C:\Users\joao_\source\repos\Teste_certo\Teste_certo\bin\Debug\Teste_certo.pdb
+C:\Users\joao_\source\repos\Teste_certo\Teste_certo\obj\Debug\Teste_certo.exe
+C:\Users\joao_\source\repos\Teste_certo\Teste_certo\obj\Debug\Teste_certo.pdb
+D:\Teste_certo\Teste_certo\bin\Debug\Teste_certo.exe.config
+D:\Teste_certo\Teste_certo\bin\Debug\Teste_certo.exe
+D:\Teste_certo\Teste_certo\bin\Debug\Teste_certo.pdb
+D:\Teste_certo\Teste_certo\obj\Debug\Teste_certo.csproj.AssemblyReference.cache
+D:\Teste_certo\Teste_certo\obj\Debug\Teste_certo.exe.config
+D:\Teste_certo\Teste_certo\obj\Debug\Teste_certo.csproj.CoreCompileInputs.cache
+D:\Teste_certo\Teste_certo\obj\Debug\Teste_certo.exe
+D:\Teste_certo\Teste_certo\obj\Debug\Teste_certo.pdb
