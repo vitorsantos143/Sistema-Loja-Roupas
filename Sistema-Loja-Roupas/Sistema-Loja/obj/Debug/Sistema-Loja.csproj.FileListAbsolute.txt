@@ -1,0 +1,7 @@
+C:\Users\lab2083\source\repos\Sistema-Loja-Roupas\Sistema-Loja\bin\Debug\Sistema-Loja.exe.config
+C:\Users\lab2083\source\repos\Sistema-Loja-Roupas\Sistema-Loja\bin\Debug\Sistema-Loja.exe
+C:\Users\lab2083\source\repos\Sistema-Loja-Roupas\Sistema-Loja\bin\Debug\Sistema-Loja.pdb
+C:\Users\lab2083\source\repos\Sistema-Loja-Roupas\Sistema-Loja\obj\Debug\Sistema-Loja.csproj.AssemblyReference.cache
+C:\Users\lab2083\source\repos\Sistema-Loja-Roupas\Sistema-Loja\obj\Debug\Sistema-Loja.csproj.CoreCompileInputs.cache
+C:\Users\lab2083\source\repos\Sistema-Loja-Roupas\Sistema-Loja\obj\Debug\Sistema-Loja.exe
+C:\Users\lab2083\source\repos\Sistema-Loja-Roupas\Sistema-Loja\obj\Debug\Sistema-Loja.pdb
